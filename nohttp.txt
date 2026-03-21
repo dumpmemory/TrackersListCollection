@@ -32,6 +32,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://node01.madtia.cc:42069/announce
 
+udp://node01.torrentonline.cc:42069/announce
+
 udp://node01.trackerstatus.live:42069/announce
 
 udp://node02.madtia.cc:42069/announce
@@ -61,6 +63,8 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://torrentvpn.club:6990/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -95,6 +99,8 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -147,8 +153,6 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
