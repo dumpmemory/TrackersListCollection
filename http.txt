@@ -46,10 +46,6 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://seeders-paradise.org:80/announce
-
-http://share.hkg-fansub.info:80/announce.php
-
 http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
@@ -57,8 +53,6 @@ http://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -70,8 +64,6 @@ http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -82,7 +74,7 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dmcomic.org:2710/announce
 
-http://tracker.ipv6tracker.org:80/announce
+http://tracker.lintk.me:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
@@ -90,15 +82,21 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
+http://tracker.opentorrent.top:6969/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.tritan.gg:8080/announce
+
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
@@ -107,6 +105,10 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker810.xyz:11450/announce
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -121,6 +123,8 @@ https://edgev.duckdns.org:443/announce
 https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://shahidrazi.online:443/announce
 
